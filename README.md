@@ -1,4 +1,4 @@
-# Reeviu app 
+# Django and React app 
 
 [Project description and summary]
 
@@ -13,7 +13,7 @@
 ## Installation
 
 1. `git clone git clone https://github.com/AbdulAbdullah/fullstack.git`
-2. `cd reeviu`
+2. `cd `
 3. `npm install`
 4. To run on browser `npm run web`
 
