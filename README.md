@@ -15,7 +15,7 @@
 1. `git clone git clone https://github.com/AbdulAbdullah/fullstack.git`
 2. `cd `
 3. `npm install`
-4. To run on browser `npm run web`
+4. To run on browser `npm run dev`
 
 ## Setting up the backend
 
